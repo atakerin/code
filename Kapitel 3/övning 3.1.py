@@ -6,3 +6,4 @@ elif tid <= 66:
      print('Abonemangen "normal" är best för dig!')
 else:
      print('Abonemangen "plus" är best för dig!')
+     
